@@ -3,6 +3,7 @@ uvicorn
 pymongo[srv]
 motor
 passlib[argon2]
+argon2-cffi
 python-jose[cryptography]
 python-multipart
 python-dotenv
